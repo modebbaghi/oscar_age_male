@@ -35,8 +35,3 @@ Briefly explain the project goal: Analyzing age trends of Oscar Best Actor winne
 - The "typical" Oscar-winning actor is in his early-to-mid 40s
 - Despite this trend, the award has been won by actors ranging from their late 20s to mid-70s
 - This demonstrates that excellence in acting is recognized across a wide age spectrum
-
-## 🔧 Data Engineering Impact  
-- Built the ingestion pipeline (Python + SQL) that transformed raw sales logs into clean, analyst-ready tables  
-- Automated daily refreshes using [tool: e.g., cron, Airflow]  
-- Reduced data prep time for analysts from 4 hours → 15 minutes  
